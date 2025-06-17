@@ -1,0 +1,5 @@
+echo "# Frontend code" > frontend/README.md
+echo "# Backend code" > backend/README.md
+git add .
+git commit -m "Initial project structure with frontend and backend folders"
+git push origin main
